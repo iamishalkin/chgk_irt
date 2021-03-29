@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "chgk_irt"
+version = "0.1.0"
+description = "This code is for specific IRT application"
+authors = ["iamishalkin <iamishalkin@edu.hse.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.2.1"
+jupyter = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
