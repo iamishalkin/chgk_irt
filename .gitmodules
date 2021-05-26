@@ -1,0 +1,3 @@
+[submodule "chgk-rating"]
+	path = chgk-rating
+	url = https://github.com/eignatenkov/chgk-rating.git
